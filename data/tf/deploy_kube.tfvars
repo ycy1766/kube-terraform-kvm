@@ -11,7 +11,7 @@ vm_kube_names = [
 
 vm_kube_type = {
   cpu = "3"
-  memory = "9100"
+  memory = "8192"
   root_disk_size = "60"
 }
 
