@@ -1,0 +1,5 @@
+# no .qcow files
+*.qcow2
+
+# no terraform binary file 
+terraform
